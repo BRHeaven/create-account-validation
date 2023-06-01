@@ -1,5 +1,5 @@
 import Register from "./Source/Register";
-
+import "./Css/Main.css"
 
 function App() {
   return (
@@ -7,6 +7,6 @@ function App() {
       <Register/>
     </div>
   );
-}
+};
 
 export default App;

@@ -1,0 +1,22 @@
+#register {
+    display: block;
+    width: 500px;
+    padding: 0;
+    margin: 0 auto;
+}
+#register h3 {
+    font-size: 1.2em;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    animation: loopColor infinite 3s linear;
+    transition: all 3s;
+}
+@keyframes loopColor {
+    from {
+        color: #38ef7d;
+    } to {
+        color: #11998e;
+    } 
+}
