@@ -13,6 +13,13 @@
     animation: loopColor infinite 3s linear;
     transition: all 3s;
 }
+.notification {
+    font-size: .6em;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #f5000b;
+}
 @keyframes loopColor {
     from {
         color: #38ef7d;

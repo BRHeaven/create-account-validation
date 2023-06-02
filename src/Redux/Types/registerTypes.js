@@ -1,0 +1,1 @@
+export const handleChangeValue = "HANDLECHANGE_VALUE";
